@@ -17,12 +17,12 @@ export default function NotFoundPage() {
       <LangLayout>
         <Seo title="404: Page not found" robotsEnabled={false} />
 
-        <header className="relative h-screen min-h-[640px] w-screen bg-body-100">
+        <header className="relative h-screen min-h-[640px] w-screen">
           <div className="ui-wrapper flex h-full flex-col items-center justify-center">
             <span className="ui-heading" data-heading="xl">
               &#128531;
             </span>
-            <h1 className="ui-heading text-center text-3xl text-primary sm:text-5xl lg:text-6xl">
+            <h1 className="ui-heading text-center font-serif text-3xl text-primary sm:text-5xl lg:text-6xl">
               Page not found
             </h1>
             <p className="ui-lead mx-auto mb-16 max-w-3xl text-center">

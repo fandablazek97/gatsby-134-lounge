@@ -75,7 +75,7 @@ export default function Aftermovie() {
           >
             {/* Obsah modalu */}
             <div className="relative top-1/2 z-[200] mx-auto max-h-[80vh] w-[80%] max-w-sm -translate-y-1/2 transform">
-              <div className="aspect-[9/16]">
+              <div className="aspect-[9/16] bg-slate-800">
                 <video controls className="object-cover">
                   <source src={aftermovie} type="video/mp4" />
                   Your browser does not support the video tag.

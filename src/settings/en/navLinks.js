@@ -13,7 +13,7 @@ export const mainRoutes = [
     path: "/en/#oteviraci-doba",
   },
   {
-    label: "Contactt",
+    label: "Contact",
     path: "/en/#kontakt",
   },
   {
