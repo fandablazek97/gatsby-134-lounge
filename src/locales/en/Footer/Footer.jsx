@@ -27,7 +27,7 @@ export default function Footer() {
 
         <div className="mt-16 lg:mt-0 lg:flex lg:items-center lg:space-x-5 xl:space-x-10">
           <span className="block text-center text-xs font-medium uppercase text-gray-600 lg:text-white">
-            © {new Date().getFullYear()} The Lounge
+            © {new Date().getFullYear()} 134 Lounge
           </span>
           <span className="block text-center text-xs font-medium uppercase text-gray-600 lg:text-white">
             All rights reserved
